@@ -86,6 +86,7 @@ h1 {
 }
 
 p {
+  padding-top: 1.3rem;
   width: 95%;
   color: var(--Transparent-white);
   text-align: left;
