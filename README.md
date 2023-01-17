@@ -13,7 +13,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Overview
 
-Here is my solution to the Base Apparel coming soon page ✨
+Here is my solution✨
 
 😊 Happy to hear any feedback and advice. Thanks!
 
