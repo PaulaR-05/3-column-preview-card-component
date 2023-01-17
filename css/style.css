@@ -9,7 +9,6 @@
 .attribution {
   font-size: 11px;
   text-align: center;
-  margin-top: 3em;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
@@ -26,7 +25,6 @@ body {
 
 main {
   width: 70%;
-  max-height: 100vh;
 }
 
 div {
@@ -98,7 +96,11 @@ main .card-03 {
   font-weight: 700;
   letter-spacing: 0.5px;
 }
-
+button:hover {
+  background-color: rgb(199, 198, 198);
+  text-decoration: underline;
+  cursor: pointer;
+}
 @media only screen and (min-width: 700px) {
   main {
     display: flex;
