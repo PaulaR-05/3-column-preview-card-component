@@ -81,6 +81,7 @@ main .card-01 {
 h1 {
   display: none;
 }
+
 h2 {
   color: var(--Very-light);
   font-family: "Big Shoulders Display", cursive;
@@ -166,6 +167,13 @@ button:hover {
   button {
     margin-top: 3.5em;
     margin-bottom: 1em;
+  }
+
+  h2 {
+    color: var(--Very-light);
+    font-family: "Big Shoulders Display", cursive;
+    font-weight: 700;
+    text-transform: uppercase;
   }
 
   p {
