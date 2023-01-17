@@ -42,8 +42,8 @@ button {
 main .card-01 {
   background-color: var(--Bright-orange);
   padding: 2em;
-  border-top-left-radius: 1em;
-  border-top-right-radius: 1em;
+  border-top-left-radius: 0.5em;
+  border-top-right-radius: 0.5em;
 }
 
 h1 {
@@ -74,8 +74,8 @@ main .card-03 {
   background-color: var(--Very-dark-cyan);
   padding: 2em;
   margin-top: -16px;
-  border-bottom-left-radius: 1em;
-  border-bottom-right-radius: 1em;
+  border-bottom-left-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
 }
 
 .card-01 button {
